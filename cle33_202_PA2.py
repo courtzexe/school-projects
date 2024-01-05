@@ -1,14 +1,7 @@
 #-------------------------------------------------------------------------------
-# Name: Courtney Le
+# Name: Courtney
 # Assignment 2
 # Due Date: 02/21/2022
-#-------------------------------------------------------------------------------
-# Honor Code Statement: I received no assistance on this assignment that
-# violates the ethical guidelines set forth by professor and class syllabus.
-#-------------------------------------------------------------------------------
-# Comments and assumptions: A note to the grader as to any problems or
-# uncompleted aspects of the assignment, as well as any assumptions about the
-# meaning of the specification.
 #-------------------------------------------------------------------------------
 # NOTE: width of source code should be <=80 characters to be readable on-screen.
 #2345678901234567890123456789012345678901234567890123456789012345678901234567890
